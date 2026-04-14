@@ -15,7 +15,7 @@ Developed an interactive Power BI dashboard to analyze sales performance, revenu
 - Data Modeling
 
 ## 📸 Dashboard Preview
-(Add your screenshots here)
+![Dashboard](dashboard%20(2).png)
 
 ## 📁 File
 - Sales Analysis Dashboard.pbix
